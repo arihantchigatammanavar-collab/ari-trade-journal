@@ -1,0 +1,8 @@
+{
+  "maxDailyHours": 6,
+  "sessionDurationMinutes": 45,
+  "breakDurationMinutes": 10,
+  "preferredDays": [1, 2, 3, 4, 5],
+  "academicLevel": "undergraduate",
+  "displayName": ""
+}

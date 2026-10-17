@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Uploaded trade screenshots and local credentials are private runtime data.
+uploads/
+.git-credentials
+.credentials/
+secrets/
+
+# Local certificates and private key material.
+*.pem
+*.key
+*.p12
+*.pfx

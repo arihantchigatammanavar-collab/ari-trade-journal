@@ -1,0 +1,9 @@
+{
+  "currency": "USD",
+  "currencySymbol": "$",
+  "defaultAccountEquity": 25000,
+  "maxRiskPerTradePercent": 1,
+  "maxDailyLoss": 750,
+  "maxOpenPositions": 3,
+  "breakevenTolerance": 1
+}
